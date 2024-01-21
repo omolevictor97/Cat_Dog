@@ -1,6 +1,4 @@
-absl-py
-astor
-certifi
+
 click
 Flask
 Flask-Cors
